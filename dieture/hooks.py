@@ -242,3 +242,5 @@ app_license = "mit"
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 
+app_include_js = ["/assets/dieture/js/previous_purchase_price.js",
+                  "/assets/dieture/js/sales_invoice_customer_filter.js"]
