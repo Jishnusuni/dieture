@@ -26,6 +26,19 @@
 
 ---
 
+## ⚙️ Fixtures Used
+
+Included fixtures to preserve customizations during export/import:
+
+- **Workflow**
+- **Workflow State**
+- **Workflow Action Master**
+- **Report**
+  
+
+---
+
+
 
 ## 📸 Screenshots
 
