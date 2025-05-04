@@ -26,32 +26,15 @@
 
 ---
 
-## 📁 Folder Structure
-
-dieture/
-├── dieture/
-│ ├── doctype/
-│ │ └── supplier_evaluation/
-│ ├── report/
-│ │ └── customer_group_summary_report/
-│ └── ...
-├── public/
-│ ├── js/
-│ │ ├── sales_invoice_customer_filter.js
-│ │ ├── previous_purchase_price.js
-│ └── python/
-│ └── last_purchase_price.py
-└── README.md
-
 
 ## 📸 Screenshots
 
 
-![Customer Filter]
+
 *Sales Invoice - Customer filtered by group*
 ![image](https://github.com/user-attachments/assets/c932035b-9803-4ee5-8807-cefc51d97065)
 
-![Previous Prices]
+
 *Purchase Invoice - Previous 3 prices shown*
 ![image](https://github.com/user-attachments/assets/e3af0b57-deb1-4cc4-967b-b0a7b6882af1)
 ![image](https://github.com/user-attachments/assets/eba76da0-5831-4e26-a7f2-b1ccf4f3dd57)
