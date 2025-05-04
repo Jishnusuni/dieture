@@ -1,0 +1,20 @@
+[project]
+name = "dieture"
+authors = [
+    { name = "jishnusuni", email = "jishnusunip@gmail.com"}
+]
+description = "Dieture is a custom app built to manage and organize ERPNext customizations. It serves as a container for custom scripts, fields, doctypes, and configurations specific to a client's ERPNext setup, ensuring a clean separation from the core ERPNext framework."
+requires-python = ">=3.10"
+readme = "README.md"
+dynamic = ["version"]
+dependencies = [
+    # "frappe~=15.0.0" # Installed and managed by bench.
+]
+
+[build-system]
+requires = ["flit_core >=3.4,<4"]
+build-backend = "flit_core.buildapi"
+
+# These dependencies are only installed when developer mode is enabled
+[tool.bench.dev-dependencies]
+# package_name = "~=1.1.0"
