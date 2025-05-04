@@ -246,4 +246,4 @@ app_include_js = ["/assets/dieture/js/previous_purchase_price.js",
                   "/assets/dieture/js/sales_invoice_customer_filter.js"]
 
 
-fixtures = ["Workflow State","Workflow","Workflow Action Master"]
+fixtures = ["Workflow State","Workflow","Workflow Action Master","Report"]
