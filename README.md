@@ -32,13 +32,37 @@
 
 
 *Sales Invoice - Customer filtered by group*
+
 ![image](https://github.com/user-attachments/assets/c932035b-9803-4ee5-8807-cefc51d97065)
 
-
 *Purchase Invoice - Previous 3 prices shown*
+
 ![image](https://github.com/user-attachments/assets/e3af0b57-deb1-4cc4-967b-b0a7b6882af1)
+
 ![image](https://github.com/user-attachments/assets/eba76da0-5831-4e26-a7f2-b1ccf4f3dd57)
 
+*Customer Group Summary Report
 
+![image](https://github.com/user-attachments/assets/104f6c88-ef90-4706-8aa0-716784684fb5)
+
+*Supplier Evaluation – Form View
+
+![image](https://github.com/user-attachments/assets/eb2410fe-d714-407e-ade0-d5b5de3d314f)
+
+*Supplier Evaluation – Workflow
+
+![image](https://github.com/user-attachments/assets/81c5be85-4440-46ab-8044-8cad2ad676e7)
+![image](https://github.com/user-attachments/assets/c5a925a7-6691-4116-9b79-2f15da2c006a)
 
 ---
+
+
+## ✅ Installation
+
+```bash
+# Get the app
+$ bench get-app dieture https://github.com/Jishnusuni/dieture.git
+
+# Install the app on your site
+$ bench --site your-site-name install-app erpnext
+$ bench --site your-site-name install-app dieture
